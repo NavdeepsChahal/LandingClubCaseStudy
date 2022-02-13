@@ -1,0 +1,60 @@
+# Project Name
+> This project was created to help finance companies to make an intelligent decsion for loan approval based upon vertain driving varaibles
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
+
+
+
+## General Information
+
+- Problem Statement:
+   Business Understanding - Lending Club Case Study
+   We are working for a consumer finance company which specializes in lending various types of loans to urban customers. When we receive a      loan application, we have to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with      our decision:
+     •If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+     •If the applicant is not likely to repay the loan, i.e., he/she is likely to default, then approving the loan may lead to a financial         loss for the company
+
+- Business Objective 
+   The objective is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong            indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment.
+   We need to research about risk analytics by understanding the types of variables and their significance should be enough. 
+
+- Analysis Approach:
+  The following will the approach that will be followed to analyze the data and then provide a solution:
+   1.Understand the data properly 
+   2.Clean and manipulate data as needed
+   3.Data analysis
+   4.Provide result of analysis in form of visualization 
+
+Dataset
+ Used Loans.csv - It had all the data related to loans and customers
+
+
+
+## Conclusions
+- using Univariant, Bivariant and Multivariant we concluded what are the main driver variables behind loan default
+
+
+## Technologies Used
+- Python 3
+- jupyter
+
+
+## Acknowledgements
+Give credit here.
+- This project was done as per the assignment 
+
+
+
+## Contact
+Created by [@navdeepschahal] - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
