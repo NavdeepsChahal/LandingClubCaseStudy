@@ -50,7 +50,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@navdeepschahal] - feel free to contact me!
+Created by [@NavdeepsChahal] - feel free to contact me!
 
 
 <!-- Optional -->
