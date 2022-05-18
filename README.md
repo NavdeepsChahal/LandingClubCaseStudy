@@ -1,71 +1,28 @@
-# Project Name
-> This project was created to help finance companies to make an intelligent decsion for loan approval based upon vertain driving varaibles
+Project Name
+This project was created to help finance companies to make an intelligent decsion for loan approval based upon vertain driving varaibles
 
+Table of Contents
+General Info
+Technologies Used
+Conclusions
+Acknowledgements
+General Information
+Problem Statement: Business Understanding - Lending Club Case Study We are working for a consumer finance company which specializes in lending various types of loans to urban customers. When we receive a loan application, we have to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with our decision: •If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company •If the applicant is not likely to repay the loan, i.e., he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+Business Objective The objective is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment. We need to research about risk analytics by understanding the types of variables and their significance should be enough.
 
+Analysis Approach: The following will the approach that will be followed to analyze the data and then provide a solution: 1.Understand the data properly 2.Clean and manipulate data as needed 3.Data analysis 4.Provide result of analysis in form of visualization
 
+Dataset Used Loans.csv - It had all the data related to loans and customers
 
-## General Information
-
-- Problem Statement:
-  A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below   their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data   is provided in the CSV file below.
-
-  The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict   the actual value of the prospective properties and decide whether to invest in them or not.
-
-  The company wants to know:
-
-   Which variables are significant in predicting the price of a house, and
-
-   How well those variables describe the price of a house.
-
-   Also, determine the optimal value of lambda for ridge and lasso regression.
-
-- Business Objective 
-  You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly     the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the     model will be a good way for management to understand the pricing dynamics of a new market.
-  
-- Analysis Approach:
-  The following will the approach that will be followed to analyze the data and then provide a solution:
-   1.Understand the data properly 
-   2.Clean and manipulate data as needed
-   3.Data analysis
-   4.Preform EDA
-   5.Data Preparation
-   6.Train Test Split
-   7.Model Building and Evaluation
-   8.Lasso and Ridge Regression
-   9.Conclusion 
-
-Dataset
- Used train.csv- It had all the rquired data 
-
-
-
-## Conclusions
-- using ridge and Lasso regression we concluded main driver variables that affected price
-
-
-## Technologies Used
-- Python 3
-- jupyter
-
-
-## Acknowledgements
+Conclusions
+using Univariant, Bivariant and Multivariant we concluded what are the main driver variables behind loan default
+Technologies Used
+Python 3
+jupyter
+Acknowledgements
 Give credit here.
-- This project was done as per the assignment 
 
-
-
-## Contact
+This project was done as per the assignment
+Contact
 Created by [@NavdeepsChahal] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
